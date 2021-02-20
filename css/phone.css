@@ -1,0 +1,29 @@
+/* Navigation */
+#navbar {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#navbar img {
+  display: none;
+}
+/* Home */
+#home .h-primary {
+  font-size: 1.8rem;
+  margin: 1.1rem;
+}
+.sec-content {
+  font-size: 1rem;
+  margin: 0.4rem;
+}
+
+/* Services */
+#s-blocks {
+  flex-direction: column;
+}
+
+/* Clients */
+#clients .clients-logo {
+  flex-direction: column;
+  overflow: hidden;
+}
